@@ -1,9 +1,5 @@
 # Kuramoto - Turing model
 
-<script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 Let us consider $\phi_1,\dots \phi_n$ the phases of $n$ oscillators We can represent the oscillators using the complex representation $e^{i\phi}$. Let us define the center of mass of all phases but the $k$-th one as follows:
 %
 \begin{equation}
