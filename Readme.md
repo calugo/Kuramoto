@@ -1,3 +1,3 @@
 #Home of the Kuramoto-complexity project.
 
-For an intro check kuramoto.md
+The project so far can be seen [here](http://nbviewer.ipython.org/github/calugo/Kuramoto/blob/master/NOTES.ipynb)
