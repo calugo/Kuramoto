@@ -196,4 +196,12 @@ def graph(N,gtype):
       A[nk]=Bj[nk]
 
 ############################
+  if gtype[0]=="fully":
+    for i in range(N):
+      nnh=[]
+      for j in range(N):
+        if j != i:
+          nnh.append(j)
+      A[i]=nnh
+############################
   return A
